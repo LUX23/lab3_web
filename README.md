@@ -1,9 +1,5 @@
 # Разработка простейшего веб-сервиса на Flask с использованием Travis CI
 
-| Travis CI|
-| ------ |
-|[![Build Status](https://travis-ci.com/LUX23/lab3_web.svg?branch=master)](https://travis-ci.com/LUX23/lab3_web)|
-
 ## Непрерывная интеграция (CI) для GitHub
 
 Непрерывная интеграция (CI, англ. Continuous Integration) — способ разработки программного обеспечения,
