@@ -2,7 +2,7 @@
 
 | Travis CI|
 | ------ |
-|[![Build Status](https://travis-ci.com/LUX23/lab3_web.svg?branch=master)](https://travis-ci.org/LUX23/lab3_web)|
+|[![Build Status](https://travis-ci.com/LUX23/lab3_web.svg?branch=main)](https://travis-ci.org/LUX23/lab3_web)|
 
 ## Непрерывная интеграция (CI) для GitHub
 
